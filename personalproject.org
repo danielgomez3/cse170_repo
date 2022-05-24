@@ -1,6 +1,6 @@
 #+title: cse170 - Personal project (Prove 05)
 #+AUTHOR: Daniel Gomez
-#+DATE:
+#+DATE: 05/20/22
 
 
 * What is your style?
