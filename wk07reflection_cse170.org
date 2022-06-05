@@ -1,0 +1,76 @@
+#+date: <2022-06-04 Sat>
+#+author: Daniel Gomez
+#+title: CSE170: Week 7 Reflection
+
+Every other week in this class, you will reflect on your learning. Your participation in the summary is a summation of your answers the following questions. The questions are categorized on the difficulty of depth. Each question you answer is worth that many points; when you are done answering the questions, give yourself a total score based on the rubrics and provide justification in one sentence. You can only use each question once.
+
+Please answer a subset of the following questions:
+
+5 pts Questions             Affect: (What?, So What?...Return, Report, Reflect and Regroup.)
+What? (Return and Report)
+* What did I do to prepare for class this week?
+I completed all of the content and assignments that were assigned for the week
+* What evidence can I provide that demonstrates with affirmation statements?
+The completion of the Acorn Project document
+* What concept from this week are you uncertain of or would like to know more about?
+There isn't one that comes to mind.
+
+* What topics were studied this week, and what are their definitions?
+This week we discussed observing and reflection as part of problem solving. For example, once we identify key issues and learning needed to be done, we then have to decide and commit to a proper course of action.
+* What phase of your projects did you complete?
+Creating drafts for our Acorn Project throughout the week.
+* In your team meeting, what where the answers to this week’s questions?
+To create good schedules and make deadlines, it's smart to use a schedule on software that doesn't require that many dependencies and KISS (keep it simple, stupid), and write down accomplishable feasable tasks to execute.
+* Summarize this week’s scenerio?
+This week's scenario we were made to meet up with our teams and work on our Acorn projects. We needed to come up with 4 small projects that would be completed over the course of the semester.
+* Where did you put your assigments in GitHub?
+I put the link within the readme file.
+* So What? (Reflect and Regroup)
+* What did I learn from the study material
+I learned that in order to properly address sensitive issues, we need to develop the courage to address them, and not assume that people will automatically detect your subtle cues. Things also need to be handled delicately.
+* Why is this week's topic important?
+It's important to develop these skills now while we are at school so we don't have to make any preventable mistakes we should have previously overcome with growth.
+* How did this week scenerio relate to the week’s topic?
+This week's topic scenario is important because, as stated earlier, some crucial growth is better done outside of the workplace, whereas the workplace is useful for sharpening those skills and putting them to practice.
+* What did you learn from your work on your project?
+I learned that we can accomplish our tasks while trying our best to make it stimulating and having fun when we can.
+* What insights did your team lean from this week’s questions?
+We gained the insight that it's important to reach compromise in our Acorn project tasks in order to make them more enjoyable for the greater-whole.
+* What actions were assigned to you, in your team meeting?
+I was assigned to come up with ideas as well as to fill out the form the best I could.
+* 10 pts Questions Behavior: (What now?...my ideas are starting to emerge!)
+* What is the most significant take-a-way you have gained from your study this week?
+The most significant take-a-way I have gained this week: conducting discussions require patient and a constant effort to maintain focus.
+* What do you do, steps, or processes related to this week's topic?
+We completed the drafts for our Acorn Projects to meet rubric requirements.
+* How would you explain this week's topics to a person not in this class?
+I would explain it this way:
+To apply learning, action is important, but we need to have a special kind of action that would be better, which is purposeful action.
+* What did you learn by explaining this week's topic to someone not in this class?
+I learned that the overall process of learning requires humility, and I found myself explaining that although I have little and limited experience in learning and being professional, I felt I might have some insight that could bless their lives if they listened to me with patience.
+* Write a SMART goal for next week?
+Finish a draft of my school's case-study by the deadline.
+* What would you do differently next week?
+This next week I need to make sure that I'm constantly working on future assignments than just only what needs to be done that day.
+
+* What five take did you get from the scenerio?
+The five-take I got from the scenario is that it's important to ask question for our own sake, and aim those questions at ourselves: 'Am I doing everything I can as a worker and employee?', 'Is my testimony of The Savior strong enough to share with my coworkers?'.
+* How does the weekly topic relate to the MIM model?
+As we are self-aware and asking ourselves questions, we will be more appropriately able to answer those questions later in a real-life scenario in-- perhaps-- an interview.
+* 20 pts Questions Cognitive: (Wow, I learn?... Ok that is deep!)
+* Why is this week's topic important for teamwork?
+This week's topic, such as the importance to not be overconfident in estimating the time a project will take to finish, is important because if we lie to our teamates about things it will only break trust.
+* How do plan on contributing to the team, besides completing your tasks?
+I will plan on complimenting my teamates on small things and only promise deliverables that I know I might feasibly and readily deliver. Otherwise, it's better I don't promise anything.
+* How does your experience relate to other experiences you have had?
+My experience doing this relates to my time as a Project manager. Sometimes, I failed to deliver what was expected. This alone is okay, only if was able to learn from that experience and do my best to mitigate any further opportunities to fail.
+* How does your experience relate to other classmates’ experiences?
+Other classmates felt confident in their ability to succeed and to learn from their mistakes.
+* Tell me about what you taught someone? And what did they learn, that they didn’t know before?
+I taught someone once the importance of improvement when someone insisted on making a mistake.
+
+* If you were to write your experience as STAR story, how would you phrase it?
+There was a time where a friend came to apologize to me and was afraid I wasn't able to forgive him, and my instant inner-reaction was to say: 'It's okay. Don't do it again.'. Although I would learn to strive to put that phrase more lightly in the future, I would frequently use this experience to aim my overall verbage and conclusion for future learning opporunities.
+
+* If this was a religion class, how would you relate this week’s topic to the gospel?
+From my experience and this topic, I am frequently reminded of The Saviors simple and effective plan for repentance. 'It's okay, Don't do it again'.
