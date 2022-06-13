@@ -11,4 +11,7 @@ Week 7 Reflection:
 [reflection 7](./wk07reflection_cse170.org)
 
 Acorn Project:
-[Project] <https://docs.google.com/document/d/1guFCNx8VZ8-PTbfkoX8U16y7KZJsRe7z/edit>
+[Project] (./2022AcornProject.docx)
+
+FINAL Acorn Project (little change):
+[Final project] (./finalacorn_cse170.docx)
