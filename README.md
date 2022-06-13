@@ -9,7 +9,6 @@ Week 6 Reflection:
 [reflection 6](./week6_reflection.org)
 Week 7 Reflection:
 [reflection 7](./wk07reflection_cse170.org)
-
 Week 8 Reflection: 
 [reflection 8](./wk08reflection_cse170.org)
 

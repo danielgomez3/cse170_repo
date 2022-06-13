@@ -4,6 +4,8 @@
 #+title: Week 8 Reflection
 #+subtitle: Points earned: 100/100
 
+* Points earned: 100/100
+
 5 pts Questions             Affect: (What?, So What?...Return, Report, Reflect and Regroup.)
 What? (Return and Report)
 ** What did I do to prepare for class this week?
