@@ -11,7 +11,7 @@ Week 7 Reflection:
 [reflection 7](./wk07reflection_cse170.org)
 
 Acorn Project:
-[Project] (./2022AcornProject.docx)
+[Project] <https://github.com/danielgomez3/cse170_repo/blob/main/2022AcornProject.docx>
 
 FINAL Acorn Project (little change):
-[Final project] (./finalacorn_cse170.docx)
+[Final project] <https://github.com/danielgomez3/cse170_repo/blob/main/finalacorn_cse170.docx>
