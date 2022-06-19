@@ -11,6 +11,8 @@ Week 7 Reflection:
 [reflection 7](./wk07reflection_cse170.org)
 Week 8 Reflection: 
 [reflection 8](./wk08reflection_cse170.org)
+Week 9 Reflection:
+[reflection 9](./reflection9_cse170.org)
 
 Acorn Project:  
 [Project]  

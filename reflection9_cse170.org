@@ -1,0 +1,68 @@
+#+author: Daniel Gomez
+#+title: CSE170 Week 09 Reflection
+
+* Total Points earned: 100/100
+
+* 5 pts Questions             Affect: (What?, So What?...Return, Report, Reflect and Regroup.)
+** What? (Return and Report)
+** What did I do to prepare for class this week?
+This week I completed all of the necessary activities and readings
+** What evidence can I provide that demonstrates with affirmation statements?
+The accuracy of information answered throughout the following questions
+** What concept from this week are you uncertain of or would like to know more about?
+I not unfamiliar with any topic.
+** What topics were studied this week, and what are their definitions?
+We read scenarios on clean coding, stealing and reporting the stealing of code in the workplace. Also we went over the bounds between healthy and unhealthy competition.
+** What phase of your projects did you complete?
+We are waiting for our next plan Acorn project activity.
+** In your team meeting, what where the answers to this week’s questions?
+How can we maintain a friendly professionaly work environment and a friendly competiition?
+Studies show we can, but we need to keep being respectul by not taking credit for other people's work, crediting where credit is due, and not letting the competition getting out of control by refusing to help your teamates.
+** Summarize this week’s scenerio?
+The person in the scenario welcomed a friendly competition in the workplace, but it soon became toxic where people were avoiding sharing their work at all costs. The culture became unfriendly, and competition became perverted in the fact that all work became for the sake of being the best instead of being smart and using that acquired knowledge for the benefit and uplifting of others.
+** Where did you put your assigments in GitHub?
+My repo: cse170_repo
+** So What? (Reflect and Regroup)
+** What did I learn from the study material
+I among other things, I really learned that imposter syndrome and perfectionism go hand-in-hand.
+** Why is this week's topic important?
+If we don't maintain a good self-image and maintain our self-doubt in order to ultimately become professionals.
+** How did this week scenerio relate to the week’s topic?
+This week's scenario relates to professionalism: we can be professionals if we maintain general ethic principles in the workplace.
+** What did you learn from your work on your project?
+Since part of our Acorn Project was to view the devotional together, I've learned that self-help and improvement within ourselves will only help us in the long-run.
+** What insights did your team lean from this week’s questions?
+An insight I gained was that becoming a christlike person and an overall good steward, we can earn trust in our family and our 'workplace'.
+** What actions were assigned to you, in your team meeting?
+To attend our next project and meeting.
+* 10 pts Questions Behavior: (What now?...my ideas are starting to emerge!)
+** What is the most significant take-a-way you have gained from your study this week?
+My most significant take-a-way that I gained was that knowing our personalities are important because it can show us what we are most-likely and naturally equipped to do.  
+** What do you do, steps, or processes related to this week's topic?
+I practice self-awareness by reflecting on my thoughts at the end of the day. If I find myself in a frustrating situation, or if over-stressed, than I plan on stopping what I'm saying or where I'm at, calm myself, and think about the things I plan on saying before I do it.  
+** How would you explain this week's topics to a person not in this class?
+I would explain it similarly as I did last week: Professionalism refers to the way you represent yourself in a business setting. Most of all, professional behavior is considerate, formal, and focused.
+** What did you learn by explaining this week's topic to someone not in this class?
+I explained the concept, and learned that that it was an agreeable topic.
+** Write a SMART goal for next week?
+Finish 2 type racers with the 'sudden death' setting at 60wpm.
+** What would you do differently next week?
+I would just attempt these casually over time.
+** What five take did you get from the scenerio?
+Something that stuck out to me was the fact that even if you think your perfect and change is not worth it, than there's in fact always something to change for the better.
+** How does the weekly topic relate to the MIM model?
+This week particularly coincides with the 'consciousness aspect of the MIM model, as even though we may feel like we are self-aware, we need to do our best to review our work, thoughts, and actions.
+* 20 pts Questions Cognitive: (Wow, I learn?... Ok that is deep!)
+** Why is this week's topic important for teamwork?
+This week's topic directly related to teamwork because we were assigned teamates for our acorn projects.
+** How do plan on contributing to the team, besides completing your tasks?
+I plan on contributing to the team by making a group chat and communicating a time where we can meet to work on next week's project.
+** How does your experience relate to other experiences you have had?
+My experience relates to other experiences because I've been assigned many group projects in the past.
+** How does your experience relate to other classmates’ experiences?
+My experience relates because one of my classmates also has had to take initiative in gathering classmates to finish a task.
+** Tell me about what you taught someone? And what did they learn, that they didn’t know before?
+** If you were to write your experience as STAR story, how would you phrase it?
+One experience I can recall is when I taught someone about what we learned, they brought up the fact that everyone is more of an agreeable person than they actually are. This allowed me to humble myself and focus more on my weaknesses. This led my team to follow my example and acknowledge their weaknesses, and thus from this experience we were able to grow closer together from that humility.
+** If this was a religion class, how would you relate this week’s topic to the gospel?
+I would phrase it like 'Humility breeds excellence'. If you think about it, this relates well with the saviors example. If we follow his example and humble ourselves, we can learn and grow a lot more.
