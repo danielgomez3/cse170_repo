@@ -1,4 +1,4 @@
-# Reflection        Name: Daniel                       Total Points: 100  
+# Reflection        Name: Daniel Gomez                       Total Points: 100  
 
 Every other week in this class, you will reflect on your learning. Your participation in the summary is a summation of your answers the following questions. The questions are categorized on the difficulty of depth. Each question you answer is worth that many points; when you are done answering the questions, give yourself a total score based on the rubrics and provide justification in one sentence. You can only use each question once.  
 
