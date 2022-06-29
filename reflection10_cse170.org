@@ -1,6 +1,6 @@
 #+author: Daniel Gomez
 #+title: cse170: Week 10 Reflection
-#+subtitle: Points Earned: 100/100
+* Points Earned: 100/100
 * 5 pts Questions             Affect: (What?, So What?...Return, Report, Reflect and Regroup.)
 * What? (Return and Report)
 * What did I do to prepare for class this week?
