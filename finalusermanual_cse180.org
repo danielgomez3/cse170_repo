@@ -78,20 +78,21 @@ If we were to decide work and life as two separate things, ideally we would have
 ** Keep a Good Time Journal
 
 Complete a log of your daily activities this week, that engage you or that provide you energy, and contrast those that don’t.
-At the end of the week jot down your reflections.
-Are there any surprises?
-Personally, I figured out that having one whole day (Sunday) dedicated to playing video games, doing extracurricular activities and spending the day's entirety with my wife was what left me ready and motivated to continue my week.
 
 *** Add Historical Data: Review the past month to year on activities that you have done that give you energy or engagement..
 - Hiking
+- Running/jogging
 - Playing pool
 - Arcade games
-
 
 *** and those that don’t.
 - Laying in bed
 - Being on my phone for excessive periods of time
+- 
 
+At the end of the week jot down your reflections.
+Are there any surprises?
+Personally, I figured out that having one whole day (Sunday) dedicated to playing video games, doing extracurricular activities and spending the day's entirety with my wife was what left me ready and motivated to continue my week.
 
 
 
@@ -101,10 +102,10 @@ Personally, I figured out that having one whole day (Sunday) dedicated to playin
 
 Analysis your data, figure out what does or does not engage and energize you. Use AEIOU method to help
 Activities What was it? Structured/Unstructured? Role?
-- Unstructured:
+*** Unstructured:
 Hiking, gym, playing volleyball. These tended to satisfy my physical needs.
 
-- Structured:
+*** Structured:
 Doing dishes, Laundry, and completing all homework on time. These ultimately released stress when completed, even though they were difficult to complete.
 
 Environments Where was it? Effects? When? Feelings?
