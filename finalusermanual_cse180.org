@@ -19,101 +19,205 @@ Now ask yourself if the ”problem” is a gravity problem, or is in your circle
 Write a short reflection about your Workview. (100-250 words)
 Address critical issue related to what work is and what it means to you.
 More than a list but a statement of your view of work
+
+My work view: It's something that you do and something that you will find yourself doing only as a result of your goals. I've found myself working a lot, and as a result becoming problematic as I became unhappier.
+The reason why I mention this is because it's important to find those in the workplace that are willing to work and are motivated, and remove those who seem to be problematic, lazy, and unhappy. Granted, you help them the best you can to find the jobs that they may be more passionate about that would fit their skill-set.
+I personally have been told to be very hardworking, and in some situations admittedly quite lazy, so I think the best way to describe my view of work: Do what occupies your heart, and also have a potential for greatness.
+
 * Reflections Questions
 Why work
 What’s work for?
+As stated earlier: work is for providing a means in which we accomplish our goals.
 What does work mean?
+Work means doing something that's necessary.
+
 How does it relate to the individual, others, and society?
+Work hopefully is for the sake of the ones you love, and good work impacts your community and workplace for the better.
+
 What does money have to do with it?
+Money may or may not be the end-result of your work, and for others accruing money might not even be a goal at all.
+
 What do experience, growth, and fulfillment have to do with it?
+Growth and Experience is gained as you complete your work. As you continue to work, you will get better at doing it, and this overall growth should be known as 'experience'.
+In my opinion, fulfillment should be more important than money or anything else, and that money will most likely come as a result of growth.
+
 Write a short reflection about your Lifeview (100-250 words)
-Critical defining values and perspectives provide the basis for your understanding of life.
-Matters of ultimate concern matter most to you.
+Life is most happy when lead by the principles of the Gospel of Jesus Christ and the Plan of Salvation. For me, this is the full truth without exception.
+As well, happiness can only come from living the principles of righteousness. These are found in the Doctrine and Covenants 107:30, which includes meekness, 'longsuffering', and kindness. This is the case as I can testify personally as I've tried other ways to find happiness, with no long-lasting avail.
+
+
 Reflection Questions
 Why are we here?
 What is the meaning or purpose of life?
+We are here to help others by encouraging intellectual and spiritual improvement. Everything else we do is second to this. Even work. The point of work is to, in the long-run, accomplish things which are of importance, and not for the sake of being busy or doing something.
+
 What are the relations between individuals and others?
+Relations are important because it simply isn't humanly possible to accomplish everything individually on your own. There is too much knowledge to be had, too many resources to master, and too-many manuals to read. By having healthy, open, and friendly relationships with others, we can accomplish greatness.
+
 Where do family, country, and the rest of the world fit in?
+Personally, I feel everything (even family) come second to accomplishing our righteous goals. As harsh as this sounds, this is for an important purpose, as sometimes as well-meaning as culture and family can be, it can lead us astray from our christ-like goals. The edification of our family and our country should already come as a result of the succeeding of our goals.
+
 What is good, and what is evil?
 Is there a higher power, God, or something transcendent, and if so, what impact does this have on your life?
+Personally, I know there is a higher power, of which I know is mentioned in the holy scriptures including the Bible and the Book of Mormon. There's a lot of important clear-cut information we know about him, and some things we don't. But the important thing is that he loves us an knows about us, and is active in our all of our daily lives (even if we may feel if we don't deserve his presence).
+
 What is the role of joy, sorrow, justice, injustice, love, peace, and strife in life?
+Joy comes as a result of living a fulfilling and righteous life as outlined in the holy scriptures. Strife and sorrow could also affect us if we do the right things, but ultimately the Joy of knowing that our sorrows and pains will be eased in the afterlife in a place saved for us if we are faithful will ease and override some of these uneasy feelings.
+Love is complicated. I see it more as a compromise of qualities you're looking for, and you're only really lucky if you find everything you'd like.
+
 Ask these questions
 Where do your view on work and life complement one another
+Work and life to me are the same thing. Ideally, I would choose a profession in which living and working toward a company goal would become unanimous.
 Where do they clash?
+Work and life might easily clash when we might be compelled to work without an attitude of self-interest and personal curiosity of what we do.
 Does one drive the other? How?
+If we were to decide work and life as two separate things, ideally we would have hobbies and interests in our lives that would drive us to pursue a career that would enable our hobbies even further.
 
 
+
+** Keep a Good Time Journal
+
+Complete a log of your daily activities this week, that engage you or that provide you energy, and contrast those that don’t.
+At the end of the week jot down your reflections.
+Are there any surprises?
+Personally, I figured out that having one whole day (Sunday) dedicated to playing video games, doing extracurricular activities and spending the day's entirety with my wife was what left me ready and motivated to continue my week.
+
+*** Add Historical Data: Review the past month to year on activities that you have done that give you energy or engagement..
+- Hiking
+- Playing pool
+- Arcade games
+
+
+*** and those that don’t.
+- Laying in bed
+- Being on my phone for excessive periods of time
+
+
+
+
+* 2nd Class period
+
+** Keep a Good Time Journal – Part 2
+
+Analysis your data, figure out what does or does not engage and energize you. Use AEIOU method to help
+Activities What was it? Structured/Unstructured? Role?
+- Unstructured:
+Hiking, gym, playing volleyball. These tended to satisfy my physical needs.
+
+- Structured:
+Doing dishes, Laundry, and completing all homework on time. These ultimately released stress when completed, even though they were difficult to complete.
+
+Environments Where was it? Effects? When? Feelings?
+A lot of these were outside. If they were inside, they were for a purpose.
+
+Interactions People or Machines? Familiarity? Formal/Informal?
+Spending time doing homework at home was a lot better for me because I have a desk where I personally can focus and study.
+
+Objects Tools? Equipment? Inspiration? Devices?
+I have to use my keyboard and two monitors to be the most productive.
+
+Users Who and their role? Positive or Negative? Contributed?
+My wife is my biggest contributor to the my productivity and happiness. That's the main reason why I married her.
+
+
+** Mind Map
+
+Mind mapping is a great tool for ideating by yourself or in a group. Mind mapping works by using the free association of words, one after another, to open up the idea space and come up with new solutions. It bypasses your inner logical/verbal censor.
+Review your Good Time Journal, Choose three activities, one that
+Engagement: Felt you were engaged?
+Energy: Highly energizing?
+Flow: Brought you in the flow?
+Create a mind map (2-3 layers and secondary connections), For each map
+Look at our layers, and pick three things that jump out.
+
+*** I felt engaged when doing three things:
+1. Working with Embedded Systems. Whenever I work with an arduino or raspberry pi, I am fully engaged and love to continue tinkering.
+2. Using Vim. Doing assignments and completing them efficiently in Vim is very satisfying. Sometimes, it's honestly the only thing that keeps me engaged as I do tedious or otherwise more boring work.
+3. I like to play Arcade games that involved technical movement and strategy. What brings me to this flow is the feeling of rush and sport. It's highly addictive, and highly energizing. It needs to be monitored, however, and that kind of rush and sport can be replaced with the other things in this list.
+
+
+** Create a job description for each
+Create a role for each job description. Draw/Find a pic/meme
+
+*** Roblox (Software Engineer) - Rendering automation
+https://www.glassdoor.com/job-listing/software-engineer-rendering-automation-roblox-JV_IC1147406_KO0,38_KE39,45.htm?jl=1007137268143&pos=104&ao=1272169&s=21&guid=00000181a8e002d8b9d86f064c08a0e8&src=GD_JOB_AD&t=ESR&vt=w&cs=1_4c795c4d&cb=1656395662326&jobListingId=1007137268143&jrtk=3-0-1g6ke00r32him001-1g6ke00rhgajf800-11877f9312bc1ee2-&ctt=1656395675490&srs=EI_JOBS
+
+This job could quite possibly trigger those who like to work on software and creating interesting content for video games. Apply on this website (Based on actual job-posting)
+
+
+*** Apple - Embedded Systems Software Engineer
+https://www.glassdoor.com/Job/embedded-systems-software-engineer-jobs-SRCH_KO0,34.htm
+
+For working on computer hardware and software. A good compromise for both.
+
+*** Indeed - Park Ranger (any park)
+https://www.indeed.com/q-Park-Ranger-jobs.html?vjk=81311c28aad6f29b
+
+This would fuel my dire need for physical exercise.
+
+* Odyssey Plan
+Create three alternative five-year plans.
+Three plans
+
+** Odyssey Plan 1: Computer Architect, leadership in which I can communicate with others.
+Graduate with a Degree in Computer Science. Apply for a job as a Software Engineering position that involves the use of Linux and C-based languages.
+Year 0: Continue to get good grades to raise GPA levels.
+Year 1: Use my Raspberry PI to solve a real-world problem for my senior project. Apply as intern at Software Architect job. 
+Year 2-5: Apply for job and hopefully get a job in Utah near Provo or in St.George.
+*** Write three questions that arise out of each one
+Q: What is the minimum GPA expected for a Software Engineer?
+Q: Is the cost of living in St.George too high?
+Q: What can I do right now to prepare?
+*** Indicate dashboard gauge: Puts some measurements on the plan.
+Probability of success: 100%
+Probability of happiness: 90%
+
+** Odyssey Plan 2: Cybersecurity expert (With the main goal of working at the NSA)
+If my opportunity to code were to be stripped away, Graduate with a Degree in Computer Science, and continue education with certification in cyber security. With increased activities in Cyber-security websites such as TryHackMe to gain a skillset and overall knowledge.
+Year 0: Continue attendance with Society of Cybersecurity
+Year 1: Make senior project based on a principle of Cyber-security.
+Year 2-5: Apply for amateur Cybersecurity jobs, and gain experience in small but involved companies.
+*** Write three questions that arise out of each one
+Q: What can I do right now to prepare?
+Q: What is the minimum GPA for working for the NSA?
+Q: What does the NSA look for in an applicant?
+*** Indicate dashboard gauge: Puts some measurements on the plan.
+Probability of success: 90%
+Probability of happiness: 60%
+
+** Odyssey Plan 3: Musician (real money-maker: Software Engineering)
+Full-time musician and singer/songwriter.
+Year 0: Join a musical group and play local gigs
+Year 1: Column 2: Write originals with group. Move to states that support musicians and entertainment.
+Year 2-5: Attempt to become signed and hire an agent. Use COMPSCI. Degree for a Software Engineering position as backup.
+*** Write three questions that arise out of each one
+Q: What state in the U.S is the best at supporting amateur musicians?
+Q: Is attending music school worth the money and effort?
+Q: Would this mean I have to be active on social media?
+*** Indicate dashboard gauge: Puts some measurements on the plan.
+Probability of success: 1%
+Probability of happiness: 50%
+
+
+Give the Odyssey Plan a Title: six words max
+Write three questions that arise out of each one
+A good designer asks questions to test assumptions, reveal insights, check timelines, and look for possibilities. What do you want to test and explore about your Odyssey? 2-3 Questions
+Resources: time, money, skill, contacts
+Likability: hot or cold, excited/apathetic.          
+Confidence: valid/verify, uncertain/feasible
+Coherence: make sense, match work/life views
+Present/Share your plan
  
 
-  
+* What is expected for Chapter 2?
 
-  Keep a Good Time Journal
-
-  Complete a log of your daily activities this week, that engage you or that provide you energy, and contrast those that don’t.
-  At the end of the week jot down your reflections.
-  Are there any surprises?
-  Add Historical Data: Review the past month to year on activities that you have done that give you energy or engagement, and those that don’t.
-   
-
-    
-
-    2nd Class period
-
-    Keep a Good Time Journal – Part 2
-
-    Analysis your data, figure out what does or does not engage and energize you. Use AEIOU method to help
-    Activities What was it? Structured/Unstructured? Role?
-    Environments Where was it? Effects? When? Feelings?
-    Interactions People or Machines? Familiarity? Formal/Informal?
-    Objects Tools? Equipment? Inspiration? Devices?
-    Users Who and their role? Positive or Negative? Contributed?
-     
-
-     Mind Map
-
-     Mind mapping is a great tool for ideating by yourself or in a group. Mind mapping works by using the free association of words, one after another, to open up the idea space and come up with new solutions. It bypasses your inner logical/verbal censor.
-     Review your Good Time Journal, Choose three activities, one that
-     Engagement: Felt you were engaged?
-     Energy: Highly energizing?
-     Flow: Brought you in the flow?
-     Create a mind map (2-3 layers and secondary connections), For each map
-     Look at our layers, and pick three things that jump out.
-     Create a job description for each
-     Create a role for each job description. Draw/Find a pic/meme
-      
-
-      Odyssey Plan
-
-      Create three alternative five-year plans.
-      Three plans
-      Odyssey Plan 1: Life One: That Thing that you Do
-      Odyssey Plan 2: Life Two: That Thing that you’d do if thing one were suddenly gone
-      Odyssey Plan 3: Life Three: The thing you you’d do or the Life you live If money or image were no object.
-      Six columns
-      Year 0: This is your starting point: i.e. Now or After Grad,
-      Year 1: Column 2: One year from now
-      Year 2-5: Remaining columns, next 4 years.
-      Give the Odyssey Plan a Title: six words max
-      Write three questions that arise out of each one
-      A good designer asks questions to test assumptions, reveal insights, check timelines, and look for possibilities. What do you want to test and explore about your Odyssey? 2-3 Questions
-      Indicate dashboard gauge: Puts some measurements on the plan.
-      0-100%
-      Resources: time, money, skill, contacts
-      Likability: hot or cold, excited/apathetic.          
-      Confidence: valid/verify, uncertain/feasible
-      Coherence: make sense, match work/life views
-      Present/Share your plan
-       
-
-       What is expected for Chapter 2?
-
-       Health, Work, Play, and Love Dashboard
-       Define, Measure, Analysis, Summary
-       Workview and Lifeview Compass
-       Value Statement for each
-       Good Time Journal Entries
-       10-20 entries (Past or Present)
-       3 Mind Maps
-       Engagement, Energy, Flow
-       Odyssey Plans
-       Plan A, B, and Unlimited
+ Health, Work, Play, and Love Dashboard
+ Define, Measure, Analysis, Summary
+ Workview and Lifeview Compass
+ Value Statement for each
+ Good Time Journal Entries
+ 10-20 entries (Past or Present)
+ 3 Mind Maps
+ Engagement, Energy, Flow
+ Odyssey Plans
+ Plan A, B, and Unlimited
