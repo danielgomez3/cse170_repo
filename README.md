@@ -27,4 +27,4 @@ Acorn Project FINAL DRAFT:
 [Project] <https://github.com/danielgomez3/cse170_repo/blob/main/finalacorn_cse170.docx>  
 
 Acorn Project STATUS:
-[Project Status] (./finalacorn_cse170.docx)
+[Project Status](./acornprojectstatus_cse170.docx)
