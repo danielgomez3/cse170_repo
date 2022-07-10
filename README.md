@@ -8,16 +8,17 @@ Week 3 Reflection: <https://github.com/danielgomez3/cse170_repo/blob/main/03refl
 
 Week 5 Reflection: <https://github.com/danielgomez3/cse170_repo/blob/main/wk05reflection.org>  
 
-Week 6 Reflection:
-[reflection 6](./week6_reflection.org)
-Week 7 Reflection:
-[reflection 7](./wk07reflection_cse170.org)
-Week 8 Reflection:
-[reflection 8](./wk08reflection_cse170.org)
-Week 9 Reflection:
-[reflection 9](./reflection9_cse170.org)
-Week 10 Reflection:
-[reflection 10](./reflection10.org)
+Week 6 Reflection: [reflection 6](./week6_reflection.org)
+
+Week 7 Reflection: [reflection 7](./wk07reflection_cse170.org)
+
+Week 8 Reflection: [reflection 8](./wk08reflection_cse170.org)
+
+Week 9 Reflection: [reflection 9](./reflection9_cse170.org)
+
+Week 10 Reflection: [reflection 10](./reflection10.org)
+
+Week 11 Reflection: [reflection11](./wk11reflection.org)
 
 Acorn Project DRAFT: 
 [DRAFT]  
