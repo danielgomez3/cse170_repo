@@ -1,108 +1,122 @@
-Reflection: Week 11 cse170
-Name: Daniel Gomez                      
-Total Points 100/100
+Reflection        Name: Daniel Gomez                      Total Points: 100/100
 
-Every other week in this class, you will reflect on your learning. Your
-participation in the summary is a summation of your answers the following
-questions. The questions are categorized on the difficulty of depth. Each
-question you answer is worth that many points; when you are done answering
-the questions, give yourself a total score based on the rubrics and provide
-justification in one sentence. You can only use each question once.
+Every other week in this class, you will reflect on your learning. Your participation in the summary is a summation of your answers the following questions. The questions are categorized on the difficulty of depth. Each question you answer is worth that many points; when you are done answering the questions, give yourself a total score based on the rubrics and provide justification in one sentence. You can only use each question once.
 
 Please answer a subset of the following questions:
 
-5 pts Questions             Affect: (What?, So What?...Return, Report,
-Reflect and Regroup.)
+5 pts Questions             Affect: (What?, So What?...Return, Report, Reflect and Regroup.)
 What? (Return and Report)
+
 * What did I do to prepare for class this week?
-I did all of the assigned reading and researched all of the topics, including completing the personality test
+
+I did all of the assigned reading and researched all of the asigned topics
+
 * What evidence can I provide that demonstrates with affirmation statements?
+
 My response to the following.
+
 * What concept from this week are you uncertain of or would like to know more about?
+
 None.
+
 * What topics were studied this week, and what are their definitions?
+
+We studied some of the ways the traditional workplace environment has changed
+over the years to a more professional environment by being personal,
+less about loyalty (ironically enough), and high skills-based.
+
 * What phase of your projects did you complete?
+Worked on the Presentation.
+
 * In your team meeting, what where the answers to this week’s questions?
-This week we were to participate in a discussion and answer the following
-questions:
-- Does anyone have questions about the preparation materials?
-None 
-- What is the problem that Faye is facing?
-- What are her choices in this situation?
-- What should Faye do?
- 
+
+The meaning of Reciprocal loyalty: being generous to those who are loyal to you, and you as a leader be loyal to them.
+
+It's important for customer retention, and retention of those whom may work for us (even companies like Starbucks has realized this).
+
 * Summarize this week’s scenerio?
 
 Notes:
-- Faye was a good Software Engineer and was promoted to quality assurence.
-- Terrence was feuled by urgency in everything he did. He was unpredictable.
-  He was tasked with improving overall engineering after a crash.
-- They were polar opposites and had a tense relationship.
-- Even thought Terrence and his team wrote a lot of new code, they never
-  really tested any of it. He never wanted to. He had outbursts every time he
-  was questioned, he was too passionate.
-- Fay was put in a position to greenlight Terrences software, even though she
-  was scared. She has no clue what to do.
- 
+- Faye made the decision that she was going to do what was right regardless of what Terrence would have to say.
+- Baird (Terrences friend) wanted to conspire to fire her. They were also bad-mouthing Faye.
+- Faye was promoted again for her reponsible decision, but was tasked with deciding if Terrence should be fired.
+
 * Where did you put your assigments in GitHub?
-https://github.com/danielgomez3/cse170_repo/blob/main/wk11reflection.org
+https://github.com/danielgomez3/cse170_repo
 
 * So What? (Reflect and Regroup)
 * What did I learn from the study material
-Well, even though we didn't actually receive an answer on what Faye's decision was, we were brought the facts enough to make a formal decision. Even though it might not be popular, it will be better in the long-run if we were to do what's right, even if someone in particular might dislike us for doing so. Especially if we were to be appreciated in the long run for your integrity.
+I learned (or more, affirmed) that loyalty to the correct thing regardless of popularity will have better and more savory long-term outcomes, even if it may not seem so at the time.
 
 * Why is this week's topic important?
-In Faye's case, people's lives could have actually been impacted by her willingness to do what's right. Although the stakes for us may not be anywhere that extreme, in some ways the same could be applied.
+
+It's important because in Faye's case, she was promoted. We might be rewarded in a similar way for our efforts, and if not, doing the right thing will always award us blessings in heaven.
 
 * How did this week scenerio relate to the week’s topic?
-This week we were encouraged to exact leadership the Lord's way. Faye was calm to an otherwise extreme situation with Terrence in almost every given circumstance. This is also a great an example of great leadership, as was discussed as well.
+
+I honestly found that this Week's scenario didn't relate to this week's scenario and topic relate all that much compared to last week's. But there was a parallel to ethics in business. We ought to be loyal to our company or having our customers be loyal to us is a lot easier for them when we are reciprocating loyalty, when we take care of them and treat them more than just a statistic.
 
 * What did you learn from your work on your project?
-This week from our project I learned of the importance of doing everything in our power to develop our skills while we attend school, as to increase our chances for the best opportunities in the future.
+
+This week I learned that even though we might not have been very successful in every aspect, we could at least attempt, try our best, and report.
 
 * What insights did your team lean from this week’s questions?
-We were able to lean on insights of our own reactions to the christ-like reactions by Faye.
+
+We learned that when working for a customer or serving somebody, it's better that we offer them generosity and tenderness over quality over simple quantity and action.
 
 * What actions were assigned to you, in your team meeting?
-We were to attend the career fair this week Thursday.
+
+To help submit and complete the presentation.
 
 * 10 pts Questions Behavior: (What now?...my ideas are starting to emerge!)
 * What is the most significant take-a-way you have gained from your study this week?
-A significant take-a-way: the best way to be influential in the workplace is by making sure I'm constantly and always living in a way that is inspiring. 
+
+I learned that the best way to be influential in the workplace is by making sure I'm constantly and always living in a way that is inspiring. Being truthful to yourself and others.
 
 * What do you do, steps, or processes related to this week's topic?
+
 I think the best way to achieve the level of good Leadership takes constant success in practice. Putting ourselves in leadership opportunities or even exercising proper stewardship over what we have will help us to forge better leadership skills.
 
 * How would you explain this week's topics to a person not in this class?
+
 This week we focused on ways in which we could become better leaders, even if we didn't have specific rule over people or an organization. Thus, in a way, becoming better stewards over the things that we own and oversee. That way we possibly show the Lord that we may be trusted with more.
 
 * What did you learn by explaining this week's topic to someone not in this class?
 I learned that it the topic applies to everyone, even if they're not in traditional leadership positions.
 
 * Write a SMART goal for next week?
+
 Complete a type-racer on sudden death mode every day this week
 Mark my todo-list when done, with a goal to reach 50wpm by the end of this week.
 
 * What would you do differently next week?
+
 I would make sure to be more consistent and do this first thing in the morning, and also incorporating an alarm to do-so.
 
 * What five take did you get from the scenerio?
 My five-take was looking back on my mission and remembering having some companions and people that I found difficult to agree with, or at least ones that I didn't find myself naturally attracted to be around in a friendly-sense. But like Astrid and Rita, It's important to put those differences aside even if they may bother us to our metaphorical cores.
+
 * How does the weekly topic relate to the MIM model?
-The MIM model works great in this scenario because it really takes patience to process what happens that may happen to us, and taking a minute to process and react in order to make sure we don't do or say things we might regret.
+
+The MIM model works great in this scenario because it really takes patience to process what happens and do what's right. Taking a minute to process and react in order to make sure we don't do or say things we might regret in the future and make a poor decision.
 * 20 pts Questions Cognitive: (Wow, I learn?... Ok that is deep!)
 * Why is this week's topic important for teamwork?
 I found this week's topic was crucial for teamwork because in reality most of life's problems can't be tackled on our own, at least not any problems of substantial impact. We need to work with others who /will/ have more of a knowledge than we do in a topic (we all ultimately will encounter somebody like that). We'll find that we might not always be compatible or easy to work with for us.
+
 * How do plan on contributing to the team, besides completing your tasks?
 I plan on reaching out and getting to know the individual members of my newly-assigned team.
+
 * How does your experience relate to other experiences you have had?
 My experience serving a full-time mission really help me realize more-so that each of us were all in fact very different. Some missionaries even expressed strong Progressive political viewpoints and some their more Libertarian. But the work was what in fact pulled us together to achieve a common goal.
+
 * How does your experience relate to other classmates’ experiences?
 Many of us hold extreme differences in background and culture, and in spite of all those differences, Christ and his work brings us together to be nice to one another.
-* Tell me about what you taught someone? And what did they learn, that they
+
+* Tell me about what you taught someone? And what did they learn, that they didn’t know before?
 I taught someone about morals and the importance of moral-discipline. They didn't really understand the purpose of being morally straight, and they learned more about the Gospel of Jesus Christ in the process.
-* didn’t know before?
+
 * If you were to write your experience as STAR story, how would you phrase it?
 When I taught somebody about moral-discipline on my 2-year mission, they seemed confused because they claimed that good-behavior and justice was relative to the individual's upbringing. While I affirmed that some of those things were in fact true, the Gospel of Jesus Christ affirms us that there will always be an innate and if not innate, a true right and a wrong that we need to follow and execute. It only befits us doing so.
+
 * If this was a religion class, how would you relate this week’s topic to the gospel?
 I found that this week's topic was easy to relate to the gospel because I could always refer to what kind of leader Jesus Christ was. He never used his leadership and power to berate another human being, or assert dominance. He used it to enable people and change people's lives, and I supposed while reading the scenario, for that purpose are we to use leadership or even in a layperson team-member role. 
