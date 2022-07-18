@@ -20,6 +20,8 @@ Week 10 Reflection: [reflection 10](./reflection10.org)
 
 Week 11 Reflection: [reflection11](./wk11reflection.org)
 
+Week 13 Reflection: [reflection11](./wk13reflection.org)
+
 Acorn Project DRAFT: 
 [DRAFT]  
  <https://github.com/danielgomez3/cse170_repo/blob/main/2022AcornProject.docx>   
